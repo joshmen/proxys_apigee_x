@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="22" name="GEE_HDZ_PolicyXmlToJSON_InOut">
+  <DisplayName/>
+  <Description>Proxy que ejecuta la politica XmlToJson</Description>
+  <CreatedAt>1703625801734</CreatedAt>
+  <LastModifiedAt>1704830795537</LastModifiedAt>
+  <BasePaths>/gee_hdz_policyxmltojson_inout</BasePaths>
+  <Policies>
+    <Policy>X2J-ReconoceNumero</Policy>
+    <Policy>X2J-ReconoceBooleano</Policy>
+    <Policy>X2J-ReconoceNulos</Policy>
+    <Policy>X2J-ValorNulo</Policy>
+    <Policy>X2J-EspacioDeNombres</Policy>
+    <Policy>X2J-OpcionesDeTexto</Policy>
+    <Policy>X2J-OpcionesDeAtributo</Policy>
+    <Policy>X2J-OutputPrefixSufix</Policy>
+    <Policy>X2J-StripLevels</Policy>
+    <Policy>X2J-TreatAsArray</Policy>
+    <Policy>X2J-ReconoceValoresConjunto</Policy>
+    <Policy>MV-ValidaUsuario</Policy>
+  </Policies>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <Resources>
+    <Resource>xsd://Resource-1.xsd</Resource>
+  </Resources>
+</APIProxy>

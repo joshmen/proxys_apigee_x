@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageValidation continueOnError="false" enabled="true" name="MV-ValidaUsuario">
+  <DisplayName>MV-ValidaUsuario</DisplayName>
+  <Properties/>
+  <Source>request</Source>
+  <ResourceURL>xsd://Resource-1.xsd</ResourceURL>
+</MessageValidation>

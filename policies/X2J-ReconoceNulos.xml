@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLToJSON continueOnError="false" enabled="true" name="X2J-ReconoceNulos">
+  <DisplayName>X2J-ReconoceNulos</DisplayName>
+  <Options>
+    <RecognizeNull>true</RecognizeNull>
+  </Options>
+  <!--<Format>yahoo</Format>-->
+  <!--No se puede usar junto con Options, o es uno u otro-->
+  <Source>request</Source>
+</XMLToJSON>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLToJSON continueOnError="false" enabled="true" name="X2J-OutputPrefixSufix">
+  <DisplayName>X2J-OutputPrefixSufix</DisplayName>
+  <Options>
+    <OutputPrefix>PREFIX_</OutputPrefix>
+    <OutputSuffix>_SUFFIX</OutputSuffix>
+  </Options>
+  <!--<Format>yahoo</Format>-->
+  <!--No se puede usar junto con Options, o es uno u otro-->
+  <Source>request</Source>
+</XMLToJSON>
